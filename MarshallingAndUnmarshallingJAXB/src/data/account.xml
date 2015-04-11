@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<account>
+    <address>
+        <number>123</number>
+        <street>Street1</street>
+        <ward>W1</ward>
+    </address>
+    <birthday formatDate="yyyy-MM-dd">1980-10-20</birthday>
+    <username>acc1</username>
+</account>
